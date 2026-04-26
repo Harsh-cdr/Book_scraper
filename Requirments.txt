@@ -1,0 +1,4 @@
+requirements:
+requests
+beautifulsoup4
+lxml
